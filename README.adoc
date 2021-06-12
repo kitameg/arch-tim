@@ -1,0 +1,6 @@
+= Architektur TI-Messenger
+
+Repository für die Architekturdokumentation von TI-Messanger.  
+
+Die dokumentation ist geschrieben in https://asciidoctor.org[Asciidoc]und publiziert mithilfe von https://antora.org[Antora]. Sieh link:./docs-tim/[TIM Dokumentation Projekt] für mehr Info.
+ 
