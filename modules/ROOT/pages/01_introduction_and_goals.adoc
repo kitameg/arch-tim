@@ -1,36 +1,18 @@
 [[section-introduction-and-goals]]
 =	Einführung und Ziele
 
-[NOTE]
-====
-Beschreibt die wesentlichen Anforderungen und treibenden Kräfte, die bei der Umsetzung der Softwarearchitektur und Entwicklung des Systems berücksichtigt werden müssen.
+Die Idee hinter dem TI-Messenger: ein sicheres Übermittlungsverfahren zu schaffen, mit dem Kurznachrichten über Apps ortsunabhängig auf dem Smartphone und Tablet oder stationär auf dem PC ausgetauscht werden können – digitale Kommunikation in Echtzeit. „Wir konzipieren den TI-Messenger in der ersten Ausbaustufe für Beschäftigte im Gesundheitswesen, die unkompliziert mit Kolleginnen und Kollegen zu medizinisch relevanten Themen kommunizieren möchten. Der Bedarf nach einer schnellen und sicheren Kommunikation ist groß“, erklärt Eric Grey, Produktmanager für den TI-Messenger bei der gematik.
 
-Dazu gehören:
+Der Versand von Kurznachrichten in Praxen hat in den vergangenen Jahren deutlich zugenommen, nicht zuletzt hat die Corona-Pandemie zu einem Digitalisierungsschub geführt. Der TI-Messenger soll KIM (Kommunikation im Medizinwesen) ergänzen. KIM sorgt bereits jetzt für den sicheren E-Mail-Austausch sensibler Informationen wie Befunde, Bescheide, Abrechnungen und Röntgenbilder über die Telematikinfrastruktur und ersetzt damit z.B. den ausgedruckten Arztbrief. Der TI-Messenger ist dagegen auf die schnelle und asynchrone Ad-hoc-Kommunikation mit Kurznachrichten ausgelegt.
 
-* zugrunde liegende Geschäftsziele,
-* wesentliche Aufgabenstellungen und
-* essenzielle fachliche Anforderungen an das System sowie
-* Qualitätsziele für die Architektur und
-* relevante Stakeholder und deren Erwartungshaltung.
-====
 
 == Aufgabenstellung
 
-[NOTE]
-====
-.Inhalt
-Kurzbeschreibung der fachlichen Aufgabenstellung, treibenden Kräfte, Extrakt (oder Abstract) der Anforderungen.
-Verweis auf (hoffentlich vorliegende) Anforderungsdokumente (mit Versionsbezeichnungen und Ablageorten).
+Mit den TI-Messenger-Standards geht die gematik neue Wege und möchte durch die Verwendung eines bestehenden Open-Source-Protokolls den Ansprüchen an Interoperabilität, Integrierbarkeit und Innovationsoffenheit gerecht werden. Zentrale Aspekte sind Marktoffenheit für Anbieter, Wahlfreiheit für Nutzer sowie schnelle Verfügbarkeit der Lösung.
 
-.Motivation
-Aus Sicht der späteren Nutzung ist die Unterstützung einer fachlichen Aufgabe oder Verbesserung der Qualität der eigentliche Beweggrund, ein neues System zu schaffen oder ein bestehendes zu modifizieren.
+ 
 
-.Form
-Kurze textuelle Beschreibung, eventuell in tabellarischer Use-Case Form.
-Sofern vorhanden, sollte die Aufgabenstellung Verweise auf die entsprechenden Anforderungsdokumente enthalten.
-
-Halten Sie diese Auszüge so knapp wie möglich und wägen Sie Lesbarkeit und Redundanzfreiheit gegeneinander ab.
-====
+Industriepartner und Dritte können auf Basis der Festlegungen eigene Messenger-Lösungen nutzerzentriert entwickeln und ihren Kunden diese nach Zulassung durch die gematik anbieten. Nutzer können entscheiden, über welchen TI-Messenger sie kommunizieren möchten. Wesentliche Unterschiede zu bereits bestehenden Messengerlösungen sind die Erreichbarkeit aller TI-Messenger-Nutzer durch die Gewährleistung von Interoperabilität zwischen einzelnen Messenger-Diensten und die Bereitstellung eines zentralen Adressbuches aller authentifizierten Nutzer. Dies sind Alleinstellungsmerkmale des gematik-Standards und ein Meilenstein für die sektorenübergreifende Kommunikation im Gesundheitswesen. Bereits im Frühjahr 2022 kann mit ersten Lösungen am Markt gerechnet werden.
 
 == Qualitätsziele
 
