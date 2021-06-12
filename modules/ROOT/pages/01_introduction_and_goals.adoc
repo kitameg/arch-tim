@@ -1,8 +1,8 @@
 [[section-introduction-and-goals]]
-==	Einführung und Ziele
+=	Einführung und Ziele
 
-[role="arc42help"]
-****
+[NOTE]
+====
 Beschreibt die wesentlichen Anforderungen und treibenden Kräfte, die bei der Umsetzung der Softwarearchitektur und Entwicklung des Systems berücksichtigt werden müssen.
 
 Dazu gehören:
@@ -12,12 +12,12 @@ Dazu gehören:
 * essenzielle fachliche Anforderungen an das System sowie
 * Qualitätsziele für die Architektur und
 * relevante Stakeholder und deren Erwartungshaltung.
-****
+====
 
-=== Aufgabenstellung
+== Aufgabenstellung
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Kurzbeschreibung der fachlichen Aufgabenstellung, treibenden Kräfte, Extrakt (oder Abstract) der Anforderungen.
 Verweis auf (hoffentlich vorliegende) Anforderungsdokumente (mit Versionsbezeichnungen und Ablageorten).
@@ -30,12 +30,12 @@ Kurze textuelle Beschreibung, eventuell in tabellarischer Use-Case Form.
 Sofern vorhanden, sollte die Aufgabenstellung Verweise auf die entsprechenden Anforderungsdokumente enthalten.
 
 Halten Sie diese Auszüge so knapp wie möglich und wägen Sie Lesbarkeit und Redundanzfreiheit gegeneinander ab.
-****
+====
 
-=== Qualitätsziele
+== Qualitätsziele
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Die Top-3 bis Top-5 der Qualitätsziele für die Architektur, deren Erfüllung oder Einhaltung den maßgeblichen Stakeholdern besonders wichtig sind.
 Gemeint sind hier wirklich Qualitätsziele, die nicht unbedingt mit den Zielen des Projekts übereinstimmen. Beachten Sie den Unterschied.
@@ -45,12 +45,12 @@ Weil Qualitätsziele grundlegende Architekturentscheidungen oft maßgeblich beei
 
 .Form
 Tabellarische Darstellung der Qualitätsziele mit möglichst konkreten Szenarien, geordnet nach Prioritäten.
-****
+====
 
-=== Stakeholder
+== Stakeholder
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Expliziter Überblick über die Stakeholder des Systems – über alle Personen, Rollen oder Organisationen –, die
 
@@ -66,7 +66,7 @@ Diese Stakeholder bestimmen unter anderem Umfang und Detaillierungsgrad der von 
 
 .Form
 Tabelle mit Rollen- oder Personennamen, sowie deren Erwartungshaltung bezüglich der Architektur und deren Dokumentation.
-****
+====
 
 [cols="1,1,2" options="header"]
 |===

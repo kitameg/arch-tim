@@ -1,8 +1,8 @@
 [[section-runtime-view]]
-== Laufzeitsicht
+= Laufzeitsicht
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Diese Sicht erklärt konkrete Abläufe und Beziehungen zwischen Bausteinen in Form von Szenarien aus den folgenden Bereichen:
 
@@ -32,17 +32,17 @@ Nutzen Sie beispielsweise:
 * BPMN (Geschäftsprozessmodell und -notation) oder EPKs (Ereignis-Prozessketten)
 * Zustandsautomaten
 * ...
-****
+====
 
-=== _<Bezeichnung Laufzeitszenario 1>_
+== _<Bezeichnung Laufzeitszenario 1>_
 
 *  <hier Laufzeitdiagramm oder Ablaufbeschreibung einfügen>
 *  <hier Besonderheiten bei dem Zusammenspiel der Bausteine in diesem Szenario erläutern>
 
-=== _<Bezeichnung Laufzeitszenario 2>_
+== _<Bezeichnung Laufzeitszenario 2>_
 
 ...
 
-=== _<Bezeichnung Laufzeitszenario n>_
+== _<Bezeichnung Laufzeitszenario n>_
 
 ...

@@ -1,8 +1,8 @@
 [[section-quality-scenarios]]
-== Qualitätsanforderungen
+= Qualitätsanforderungen
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Dieser Abschnitt enthält möglichst alle Qualitätsanforderungen als Qualitätsbaum mit Szenarien.
 Die wichtigsten davon haben Sie bereits in Abschnitt 1.2 (Qualitätsziele) hervorgehoben.
@@ -11,12 +11,12 @@ Nehmen Sie hier auch Qualitätsanforderungen geringerer Priorität auf, deren Ni
 
 .Motivation
 Weil Qualitätsanforderungen die Architekturentscheidungen oft maßgeblich beeinflussen, sollten Sie die für Ihre Stakeholder relevanten Qualitätsanforderungen kennen, möglichst konkret und operationalisiert.
-****
+====
 
-=== Qualitätsbaum
+== Qualitätsbaum
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Der Qualitätsbaum (à la ATAM) mit Qualitätsszenarien an den Blättern.
 
@@ -28,12 +28,12 @@ Die mit Prioritäten versehene Baumstruktur gibt Überblick über die -- oftmals
 * Mindmap mit Qualitätsoberbegriffen als Hauptzweige
 
 In jedem Fall sollten Sie hier Verweise auf die Qualitätsszenarien des folgenden Abschnittes aufnehmen.
-****
+====
 
-=== Qualitätsszenarien
+== Qualitätsszenarien
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Konkretisierung der (in der Praxis oftmals vagen oder impliziten) Qualitätsanforderungen durch (Qualitäts-)Szenarien.
 
@@ -55,4 +55,4 @@ Insbesondere wenn Sie die Qualität Ihrer Architektur mit Methoden wie ATAM übe
 
 .Form
 Entweder tabellarisch oder als Freitext.
-****
+====

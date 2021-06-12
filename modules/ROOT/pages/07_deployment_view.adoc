@@ -1,8 +1,8 @@
 [[section-deployment-view]]
-== Verteilungssicht
+= Verteilungssicht
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Die Verteilungssicht beschreibt:
 
@@ -30,12 +30,12 @@ Jetzt zoomen Sie in diese Infrastruktur mit weiteren Verteilungsdiagrammen hinei
 * Die UML stellt mit Verteilungsdiagrammen (Deployment diagrams) eine Diagrammart zur Verfügung, um diese Sicht auszudrücken.
 Nutzen Sie diese, evtl. auch geschachtelt, wenn Ihre Verteilungsstruktur es verlangt.
 * Falls Ihre Infrastruktur-Stakeholder andere Diagrammarten bevorzugen, die beispielsweise Prozessoren und Kanäle zeigen, sind diese hier ebenfalls einsetzbar.
-****
+====
 
-=== Infrastruktur Ebene 1
+== Infrastruktur Ebene 1
 
-[role="arc42help"]
-****
+[NOTE]
+====
 An dieser Stelle beschreiben Sie (als Kombination von Diagrammen mit Tabellen oder Texten):
 
 * die Verteilung des Gesamtsystems auf mehrere Standorte, Umgebungen, Rechner, Prozessoren o. Ä., sowie die physischen Verbindungskanäle zwischen diesen,
@@ -44,7 +44,7 @@ An dieser Stelle beschreiben Sie (als Kombination von Diagrammen mit Tabellen od
 * Zuordnung von Softwareartefakten zu Bestandteilen der Infrastruktur
 
 Für mehrere Umgebungen oder alternative Deployments kopieren Sie diesen Teil von arc42 für alle wichtigen Umgebungen/Varianten.
-****
+====
 
 _**<Übersichtsdiagramm>**_
 
@@ -54,25 +54,25 @@ Qualitäts- und/oder Leistungsmerkmale:: _<Erläuternder Text>_
 
 Zuordnung von Bausteinen zu Infrastruktur:: _<Beschreibung der Zuordnung>_
 
-=== Infrastruktur Ebene 2
+== Infrastruktur Ebene 2
 
-[role="arc42help"]
-****
+[NOTE]
+====
 An dieser Stelle können Sie den inneren Aufbau (einiger) Infrastrukturelemente aus Ebene 1 beschreiben.
 
 Für jedes Infrastrukturelement kopieren Sie die Struktur aus Ebene 1.
-****
+====
 
-==== _<Infrastrukturelement 1>_
+=== _<Infrastrukturelement 1>_
 
 _<Diagramm + Erläuterungen>_
 
-==== _<Infrastrukturelement 2>_
+=== _<Infrastrukturelement 2>_
 
 _<Diagramm + Erläuterungen>_
 
 ...
 
-==== _<Infrastrukturelement n>_
+=== _<Infrastrukturelement n>_
 
 _<Diagramm + Erläuterungen>_

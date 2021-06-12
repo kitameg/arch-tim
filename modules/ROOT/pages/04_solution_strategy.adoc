@@ -1,8 +1,8 @@
 [[section-solution-strategy]]
-== Lösungsstrategie
+= Lösungsstrategie
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Kurzer Überblick über die grundlegenden Entscheidungen und Lösungsansätze, die Entwurf und Implementierung des Systems prägen.
 Hierzu gehören:
@@ -20,4 +20,4 @@ Von ihnen hängen viele weitere Entscheidungen oder Implementierungsregeln ab.
 Fassen Sie die zentralen Entwurfsentscheidungen *kurz* zusammen.
 Motivieren Sie, ausgehend von Aufgabenstellung, Qualitätszielen und Randbedingungen, was Sie entschieden haben und warum Sie so entschieden haben.
 Vermeiden Sie redundante Beschreibungen und verweisen Sie eher auf weitere Ausführungen in Folgeabschnitten.
-****
+====

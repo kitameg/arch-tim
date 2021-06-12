@@ -1,3 +1,6 @@
 name: arch-tim 
-title: Architekturkonzept TI Messenger 
-version: '0.1' 
+title: Architektur TI Messenger 
+version: '0.1.1' 
+start_page: ROOT:01_introduction_and_goals.adoc
+nav:
+- modules/ROOT/nav.adoc

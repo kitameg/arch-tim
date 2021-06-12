@@ -1,8 +1,8 @@
 [[section-glossary]]
-== Glossar
+= Glossar
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Die wesentlichen fachlichen und technischen Begriffe, die Stakeholder im Zusammenhang mit dem System verwenden.
 
@@ -17,7 +17,7 @@ Sie sollten relevante Begriffe klar definieren, so dass alle Beteiligten
 .Form
 * Zweispaltige Tabelle mit <Begriff> und <Definition>
 * Eventuell weitere Spalten mit Übersetzungen, falls notwendig.
-****
+====
 
 [cols="e,2e" options="header"]
 |===

@@ -1,8 +1,8 @@
 [[section-concepts]]
-== Querschnittliche Konzepte
+= Querschnittliche Konzepte
 
-[role="arc42help"]
-****
+[NOTE]
+====
 .Inhalt
 Dieser Abschnitt beschreibt übergreifende, prinzipielle Regelungen und Lösungsansätze, die an mehreren Stellen (=_querschnittlich_) relevant sind.
 
@@ -41,18 +41,18 @@ Eine mögliche (nicht aber notwendige!) Untergliederung dieses Abschnittes könn
 * Betriebskonzepte
 
 image:08-Crosscutting-Concepts-Structure-DE.png["Possible topics for crosscutting concepts"]
-****
+====
 
-=== _<Konzept 1>_
+== _<Konzept 1>_
 
 _<Erklärung>_
 
-=== _<Konzept 2>_
+== _<Konzept 2>_
 
 _<Erklärung>_
 
 ...
 
-=== _<Konzept n>_
+== _<Konzept n>_
 
 _<Erklärung>_
