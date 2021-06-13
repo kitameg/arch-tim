@@ -1,6 +1,8 @@
 = Architektur TI-Messenger
 
-Repository für die Architekturdokumentation von TI-Messanger.  
+[WARNING]
+====
+Dies ist ein Proof of Concept für *Specs-as-Code* Idee und keine offizielle Spezifikation. 
+====
 
-Die dokumentation ist geschrieben in https://asciidoctor.org[Asciidoc]und publiziert mithilfe von https://antora.org[Antora]. Sieh link:./docs-tim/[TIM Dokumentation Projekt] für mehr Info.
- 
+Repository für die Architekturdokumentation von TI-Messenger als Teil der https://github.com/kitameg/docs-tim[TI-Messenger Dokumentation]
