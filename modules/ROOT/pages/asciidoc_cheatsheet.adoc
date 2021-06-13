@@ -49,3 +49,38 @@ Foo -> Foo5 : To database
 Foo -> Foo6 : To collections
 Foo -> Foo7: To queue
 ----
+
+== Source Code Syntax Highlighting
+
+Asciidoc und Antora unterstützen Syntax-Highlight für viele Programmiersprachen und andere strukturierte Formate. https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md[Hier ist die komplette liste].
+
+[CAUTION]
+====
+Antora unterstützt nur HighlightJS als Code-Formatter. Auch die Auswahl von einzelnen Zeilen und Zeilennummer werden nicht unterstützt. Großer Minuspunkt hier.
+====
+
+.Kotrlin
+[source,kotlin]
+----
+// Hello World Program
+
+fun main(args : Array<String>) {
+    println("Hello, World!")
+}
+----
+
+.Swift
+[source,swift]
+----
+let cancellable = publisher.sink(
+    receiveCompletion: { completion in
+        // Called once, when the publisher was completed.
+        print(completion)
+    },
+    receiveValue: { value in
+        // Can be called multiple times, each time that a
+        // new value was emitted by the publisher.
+        print(value)
+    }
+)
+----
