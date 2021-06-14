@@ -5,6 +5,10 @@
 Für ausführlichen Syntax schaut bitte https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[die offizielle Quick Reference] an.
 ====
 
+== So etwas wie Anforderungen
+Afo::
+Anforderung MUSS im Text klar erkennbar sein.
+
 == PlantUML Diagramme
 
 [plantuml, svg]     
